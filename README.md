@@ -1,6 +1,6 @@
 # Salon page created during rocketseat classes
 
-<b>[CLICK HERE](https://henriquenagy.github.io/Salespage-workshopie-2023/) TO SEE THE ENTIRE PAGE</b>
+<b>[CLICK HERE](https://henriquenagy.github.io/Saloonpage2-createdalone-Rocketseat-2022/) TO SEE THE ENTIRE PAGE</b>
 
 This is a page model that i create while having rocketseat ignite classes. I made based on the professor maike's model.
 
@@ -11,8 +11,4 @@ This is a page model that i create while having rocketseat ignite classes. I mad
 
 <p align="center"><b>DESKTOP VIEW</b></p>
 
-<img src="https://i.ibb.co/26vMg2N/Workshop-de-Luis-Heleno.png"/>
-
-<p align="center"><b>MOBILE VIEW</b></p>
-
-<img src="https://i.ibb.co/vVDtb4Q/Workshop-de-Luis-Heleno-mobile.png"/>
+<img src="https://i.ibb.co/xGJZMTD/saloon-page.png"/>

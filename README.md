@@ -2,7 +2,7 @@
 
 <b>[CLICK HERE](https://henriquenagy.github.io/Saloonpage2-createdalone-Rocketseat-2022/) TO SEE THE ENTIRE PAGE</b>
 
-This is a page model that i create while having rocketseat ignite classes. I made based on the professor maike's model.
+This is a page model that i create while having rocketseat ignite classes. It was created based on the professor maike's model.
 
 <b>TOOLS USED: </b> 
 ![HTML](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)&nbsp;
